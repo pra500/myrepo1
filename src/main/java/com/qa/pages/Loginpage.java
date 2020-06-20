@@ -7,5 +7,11 @@ public class Loginpage {
 		System.out.println("this is my login method");
 	}
 	
+	
+	public void setpage()
+	{
+		System.out.println("this is my setpage method");
+	}
+	
 
 }
