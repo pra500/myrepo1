@@ -11,6 +11,7 @@ public class Loginpage {
 	public void setpage()
 	{
 		System.out.println("this is my setpage method");
+		System.out.println("this is my setpage method");
 	}
 	
 
