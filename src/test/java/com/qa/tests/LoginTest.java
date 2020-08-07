@@ -10,5 +10,12 @@ public class LoginTest {
 		System.out.println("this is my logintest method");
 	}
 	
+	
+	@Test
+	public void hometest()
+	{
+		System.out.println("this is my hometest method");
+	}
+	
 
 }
