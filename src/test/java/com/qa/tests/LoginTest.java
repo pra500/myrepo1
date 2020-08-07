@@ -32,6 +32,8 @@ public class LoginTest {
 	public void searchtest()
 	{
 		System.out.println("this is my searchtest method");
+		
+		System.out.println("this is my searchtest method 2");
 	}
 
 }
