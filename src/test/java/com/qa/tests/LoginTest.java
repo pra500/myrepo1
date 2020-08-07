@@ -37,4 +37,12 @@ public class LoginTest {
 		System.out.println("this is my searchtest method 2");
 	}
 
+	
+	@Test
+	public void carttest()
+	{
+		System.out.println("this is my carttest method");
+		
+		
+	}
 }
