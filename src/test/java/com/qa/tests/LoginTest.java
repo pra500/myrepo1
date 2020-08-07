@@ -19,7 +19,7 @@ public class LoginTest {
 		System.out.println("this is my logintest method");
 	}
 	
-	
+	//second method
 	@Test
 	public void hometest()
 	{
