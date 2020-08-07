@@ -33,6 +33,7 @@ public class LoginTest {
 	{
 		System.out.println("this is my searchtest method");
 		
+		//my proper msg
 		System.out.println("this is my searchtest method 2");
 	}
 
