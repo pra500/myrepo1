@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+
+ <test name="myChrome">    
+  <parameter name="brow" value="Chrome"> </parameter>   
+  <classes>
+  <class name="parallelexe.Allbrowsers1"/>  
+  </classes>
+  </test> 
+  
+  
+   
+   <!-- <test name="myIE">    
+  <parameter name="brow" value="IE"> </parameter>   
+  <classes>
+  <class name="parallelexe.Allbrowsers1"/>  
+  </classes>
+   </test> -->
+   
+   
+</suite> <!-- Suite -->
